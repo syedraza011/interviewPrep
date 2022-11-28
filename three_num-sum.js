@@ -1,4 +1,5 @@
 //Three number sum
+// O(n^2) time | O(n) space
 console.log(threeSum([12,3,1,2,-6,5,-8,6],0));
 function threeSum(array,target){
     let triplet=[];
@@ -25,3 +26,13 @@ function threeSum(array,target){
     }
     return triplet;
 }
+
+/*Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] 
+such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+Notice that the solution set must not contain duplicate triplets.
+
+*/
+threeSum = function(nums) {
+    for(let )
+};
