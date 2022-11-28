@@ -27,9 +27,9 @@ console.log(pivotIndex(nums));
 function pivotIndex(nums) {
 let sumLeft=[]
 for(let i=0;i<nums.length;i++){
-if(nums<sum)
-let pivot=Math.floor(num.length/2){
-    let left=nums.length
+if(nums<sum){}
+//let pivot=Math.floor(num.length/2){
+    //let left=nums.length
 }
-}
+
 };
